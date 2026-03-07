@@ -96,7 +96,7 @@ I enjoy solving **cybersecurity labs and CTF challenges**
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArdanaHash&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArdanaHash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ I enjoy solving **cybersecurity labs and CTF challenges**
 # 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdanaHash&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdanaHash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
