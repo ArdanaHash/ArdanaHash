@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Ardana 👋
 
-<!--
-**ArdanaHash/ArdanaHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Learner  
+📚 Currently learning through platforms like TryHackMe  
+💻 Interested in Penetration Testing & Security Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Learning Path
+
+- TryHackMe – Pre Security ✅
+- TryHackMe – Cyber Security 101 (In Progress)
+- Next: Jr Penetration Tester
+
+---
+
+## 📂 Repositories
+
+🔹 Cybersecurity Learning Notes  
+https://github.com/ArdanaHash/cybersecurity-learning-journey
+
+---
+
+## 🧠 Skills I'm Learning
+
+- Networking Fundamentals
+- Linux & Windows Basics
+- Web Technologies
+- Python Basics
+- Cybersecurity Principles
+
+---
+
+## 🎯 Goals
+
+- Build strong cybersecurity fundamentals
+- Practice with labs and CTF challenges
+- Develop security tools and scripts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdanaHash&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArdanaHash&theme=tokyonight)
