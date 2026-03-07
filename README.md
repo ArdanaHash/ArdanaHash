@@ -41,7 +41,7 @@ https://github.com/ArdanaHash/cybersecurity-learning-journey
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdanaHash&show_icons=true&theme=tokyonight)
+![Ardana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdanaHash&show_icons=true&theme=tokyonight)
 
 ---
 
