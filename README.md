@@ -114,11 +114,3 @@ I enjoy solving **cybersecurity labs and CTF challenges**
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ArdanaHash&theme=tokyonight"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ArdanaHash&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
