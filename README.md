@@ -101,14 +101,6 @@ I enjoy solving **cybersecurity labs and CTF challenges**
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdanaHash&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
