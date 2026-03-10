@@ -22,11 +22,6 @@ https://github.com/ArdanaHash/cybersecurity-learning-journey
 
 ---
 
-### 👯 Collaboration
-Looking to collaborate on **open-source cybersecurity tools**
-
----
-
 ### 🤝 Looking for Help With
 Advanced **penetration testing techniques**
 
