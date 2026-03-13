@@ -18,7 +18,6 @@ https://github.com/ArdanaHash/cybersecurity-learning-journey
 - Cyber Security 101
 - Networking Fundamentals
 - Linux Basics
-- Python for Cybersecurity
 
 ---
 
